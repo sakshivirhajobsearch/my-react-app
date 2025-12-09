@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Node.js / JavaScript / TypeScript, React
+- **Detected Technologies:** CSS, HTML, JavaScript, React
 - **GitHub Topics:** None
 
 ---
